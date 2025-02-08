@@ -1,7 +1,7 @@
 {
 	"index": 7,
 	"attributes": {
-		"generic.max_health": 24,
+		"generic.max_health": 2,
 		"paraglider:max_stamina": 28
 	},
 	"starting_skills": [
